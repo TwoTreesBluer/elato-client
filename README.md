@@ -42,8 +42,8 @@ Cliente Python que substitui o ESP32-C3 no sistema ElatoAI, mantendo **100% de c
 ### Passo 1: Clone o Repositório
 
 ```bash
-git clone https://github.com/marcelo/elato-client-python.git
-cd elato-client-python
+git clone https://github.com/TwoTreesBluer/elato-client.git
+cd elato-client
 ```
 
 ### Passo 2: Execute o Instalador Automatizado
